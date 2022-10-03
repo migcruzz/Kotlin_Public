@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App_TeoricoPratica</string>
+    <string name="Welcome" translatable="false">Bem Vindo à aplicação</string>
+</resources>
